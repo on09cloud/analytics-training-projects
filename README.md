@@ -1,1 +1,1 @@
-# analytics-training-projects
+# Учебные проекты
