@@ -18,6 +18,6 @@
 
 **Используемые библиотеки**
 
-*pandas*
-*numpy*
-*plotly.express*
+* *pandas*
+* *numpy*
+* *plotly.express*
