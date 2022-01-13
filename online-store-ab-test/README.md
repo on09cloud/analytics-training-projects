@@ -4,9 +4,9 @@
 **Данные**
 
 В наличии были следующие данные в трёх датасетах:
-* hypothesis.csv
-* orders.csv
-* visitors.csv
+* *hypothesis.csv* - 
+* *orders.csv* - 
+* *visitors.csv* - 
 
 **Задачи проекта** 
 
