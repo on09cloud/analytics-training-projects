@@ -4,9 +4,8 @@
 **Данные**
 
 В наличии были следующие данные в трёх датасетах:
-* *hypothesis.csv* - 
-* *orders.csv* - 
-* *visitors.csv* - 
+* *hypothesis.csv* - гипотезы по увеличению выручки интернет-магазина с указанными параметрами Reach, Impact, Confidence, Effort
+* *orders.csv* и *visitors.csv* - результаты A/B-теста
 
 **Задачи проекта** 
 
@@ -23,3 +22,6 @@
 * *pandas*
 * *numpy*
 * *plotly.express*
+* *plotly.graph_objs*
+* *scipy.stats*
+* *seaborn*
